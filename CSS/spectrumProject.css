@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+}
+#a1{
+    text-align: center;
+    color: white;
+}
+.row{
+    height: 140px;
+    width:100px;
+    background-color: white;
+    border: black 2px solid;
+}
+.row-1{
+    margin-left: 398px;
+    margin-top: 40px;
+    background-color: gray;
+}
+.row-2{
+    margin-left: 506px;
+    margin-top: -144px;
+    background-color: rgb(123, 190, 123);
+}
+.row-3{
+    margin-left: 615px;
+    margin-top: -144px;
+    background-color: rgb(70, 161, 70);
+}
+.row-4{
+    margin-left:724px;
+    margin-top:-144px;
+    background-color: greenyellow;
+
+}
+.row-5{
+    margin-left: 834px;
+    margin-top:-144px;
+    background-color: honeydew;
+}
+.row6{
+    margin-left: 397px;
+    margin-top: 0px;
+    background-color:rgb(248, 172, 29);
+}
+.row7{
+    margin-left: 288px;
+    margin-top: -144px;
+    background-color: rgb(241, 106, 129);
+}
+.row8{
+    margin-left: 507px;
+    margin-top: -144px;
+    background-color: rgb(165, 121, 165);
+}
+.row9{
+    margin-left: 616px;
+    margin-top:-144px;
+    background-color: rgb(157, 79, 235);
+}
+.row10{
+    margin-left: 725px;
+    margin-top: -144px;
+    background-color: rgb(43, 76, 173);
+}
+.row11{
+    margin-left: 835px;
+    margin-top: -144px;
+    background-color: rgb(117, 107, 182);
+}
+.row12{
+    margin-left: 945px;
+    margin-top: -144px;
+    background-color: rgb(111, 120, 129);
+}
+.row13{
+    margin-left: 288px;
+    margin-top: 0px;
+    background-color: rgb(100, 227, 250);
+}
+.row14{
+    margin-left: 397px;
+    margin-top: -144px;
+    background-color: rgb(204, 233, 158);
+
+}
+.row15{
+    margin-left:507px;
+    margin-top: -144px;
+    background-color: rgb(250, 194, 121);
+}
+.row16{
+    margin-left: 176px;
+    margin-top: -144px;
+    background-color: rgb(128, 30, 62);
+}
+.row17{
+    margin-left: 618px;
+    margin-top: -144px;
+    background-color: rgb(37, 19, 19);
+}
+.row18{
+    margin-left: 728px;
+    margin-top: -144px;
+    background-color: rgb(138, 219, 243);
+}
+.row19{
+    margin-left: 836px;
+    margin-top:-144px;
+    background-color: rgb(85, 172, 114);
+}
+.row20{
+    margin-left: 945px;
+    margin-top: -144px;
+    background-color: rgb(91, 49, 121);
+}
+.row21{
+    margin-left: 1058px;
+    margin-top:-144px;
+    background-color: rgba(88, 38, 124, 0.781);
+}

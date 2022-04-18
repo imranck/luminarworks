@@ -1,0 +1,20 @@
+div p{
+    color: blue;
+}
+/* descendant selector */
+
+div :nth-child(1){
+    color: rgb(63, 184, 39);
+}
+div :nth-child(2){
+    color: brown;
+}
+div :nth-child(3){
+    color: cornflowerblue;
+}
+/* pseudo selector */
+body{
+    background-image: url(./images/photo-1541963463532-d68292c34b19.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

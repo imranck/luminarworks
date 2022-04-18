@@ -1,0 +1,16 @@
+h1{
+    color: darkmagenta;
+
+}
+span{
+    color: darkolivegreen;
+}
+button{
+    background-color: rgb(97, 29, 185);
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: white;
+    color: rgb(24, 26, 179);
+}

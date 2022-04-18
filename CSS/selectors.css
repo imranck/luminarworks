@@ -1,0 +1,21 @@
+h1{
+    color: rgb(216, 143, 47);
+    text-align: center;
+                                                                                                                                   
+}
+#a1{
+    color: cadetblue;
+    text-align: right;
+}
+/* id selector # */
+.c1{
+    color: chocolate;
+    text-align: left;
+}
+/* class selector . */                                    
+#d1{
+    background-color: violet;
+}
+#d2{
+    background-color: whitesmoke;
+}

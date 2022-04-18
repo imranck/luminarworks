@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    color: wheat;
+    border: cornflowerblue 5px solid; 
+    /* create border */
+    height: 110px;
+    width: 668px;
+    /* adjust div size */
+    margin-top: 121px;
+    margin-left: 306px;
+    /* to move the content */
+
+}

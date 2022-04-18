@@ -1,0 +1,19 @@
+.col{
+    height: 100px;
+    width: 255px;
+    border: black 2px solid;
+}
+/* col is called for commonly styling all the boxes */
+.col-1{
+    background-color: aqua;
+}
+.col-2{
+    background-color: brown;
+    margin-left: 466px;
+    margin-top: -103px;
+}
+.col-3{
+    background-color: cornflowerblue;
+    margin-left: 1090px;
+    margin-top: -104px;
+}
